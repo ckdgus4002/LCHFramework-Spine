@@ -1,4 +1,3 @@
-#if Spine
 using Spine.Unity;
 
 namespace LCHFramework.Extensions
@@ -13,4 +12,3 @@ namespace LCHFramework.Extensions
         }
     }
 }
-#endif
