@@ -1,6 +1,6 @@
 {
-    "name": "LCHFrameworkLCHFramework.Spine",
-    "rootNamespace": "",
+    "name": "LCHFramework.Spine",
+    "rootNamespace": "LCHFramework.Spine",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
