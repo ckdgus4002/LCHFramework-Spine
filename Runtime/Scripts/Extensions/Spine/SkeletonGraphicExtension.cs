@@ -1,6 +1,6 @@
 using Spine.Unity;
 
-namespace LCHFramework.Extensions
+namespace LCHFramework.Spine.Extensions
 { 
     public static class SkeletonGraphicExtension
     {
