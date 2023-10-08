@@ -6,5 +6,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ckdgus4002/LCHFramework-Spine.git"
+  },
+  "author": {
+    "name": "LCH",
+    "email": "lch@lch.kr",
+    "url": "git+https://github.com/ckdgus4002/LCHFramework-Spine.git"
   }
 }
