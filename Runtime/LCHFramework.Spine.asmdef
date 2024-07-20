@@ -1,7 +1,10 @@
 {
     "name": "LCHFramework.Spine",
     "rootNamespace": "LCHFramework.Spine",
-    "references": [],
+    "references": [
+        "LCHFramework"
+        "spine-unity"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
